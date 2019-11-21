@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link changes the class when hoverd 1`] = `
+<a
+  className="normal"
+  href="http://www.facebook.com"
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  facebook
+</a>
+`;
+
+exports[`Link changes the class when hoverd 2`] = `
+<a
+  className="hovered"
+  href="http://www.facebook.com"
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  facebook
+</a>
+`;
+
+exports[`Link changes the class when hoverd 3`] = `
+<a
+  className="normal"
+  href="http://www.facebook.com"
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  facebook
+</a>
+`;
+
+exports[`Link changes the class when hoverd 4`] = `
+<a
+  className="clicked"
+  href="http://www.facebook.com"
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  facebook
+</a>
+`;
